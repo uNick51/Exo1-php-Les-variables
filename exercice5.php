@@ -6,7 +6,7 @@
 <body>
 
 <?php
-$texte = "quelque chose";
+$texte = "";
 echo "on a ".$texte;
 ?>
 
